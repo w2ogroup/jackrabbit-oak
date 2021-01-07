@@ -131,7 +131,7 @@
           <artifactId>jmxtools</artifactId>
         </exclusion>
       </exclusions>
-      <version>3.3.6</version>
+      <version>3.4.14</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
