@@ -51,7 +51,7 @@
     <!-- Using 1.6.6/1.0.7 instead of later versions to avoid -->
     <!-- forcing OSGi deployments to upgrade to SLF4J 1.7.x.  -->
     <slf4j.version>1.6.6</slf4j.version>
-    <logback.version>1.0.7</logback.version>
+    <logback.version>1.2.0</logback.version>
   </properties>
 
   <issueManagement>
